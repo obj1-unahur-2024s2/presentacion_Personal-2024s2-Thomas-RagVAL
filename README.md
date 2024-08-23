@@ -1,35 +1,26 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+Bienvenidos a mi perfil me llamo:
+# Valentin Thomas 
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+tengo 19 años, es mi tercer cuatrimestre con muchas espectativas de pasarla bien en cada materia y dar lo mejor de mi en la universidad.
+soy una persona muy copada y a la vez muy social, siempre armando grupos y llevandome bien con los demas con deseos de aprobar las materias con cada uno
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+## OBJETIVO ⭐:
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+aprender cada area de la programacion y a la vez poder llegar a mi sueño que es muy muy flashero lo se jaja, que es parecerme un poco a Tony Stark de Mrvel que desde ahi me llamo la atencion la area de la tecnologia en si
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+## COSAS DE MI ⭐:
+* activo durante el dia
+* muy competitivo
+* me gusta peliculas y series
+* soy deportista
+* me gusta jugar a la play
+* me encanta descubrir cada area de la programacion
+* me gusta pasar tiempo con mis amistades y familia
+* anime favorito Jujutsu Kaisen
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+## Links importantes ✈️:
+- [x] [Página principal](https://instagram.com/_muttix) pagina de mi instagram
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
